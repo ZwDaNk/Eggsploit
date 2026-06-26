@@ -1,5 +1,5 @@
 # Eggsploit
-The original source for Eggsploit, an exploit that operates through a vulnerability in the client to get a Studio UI up until September 2013.
+The original source for Eggsploit, an exploit that operates through a vulnerability in the client to get a Studio UI up until 2012. Studio builds are able to get the studio interface as late as September 2013.
 ## Building
 Run these commands:
 ```
